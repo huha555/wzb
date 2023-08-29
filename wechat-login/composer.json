@@ -1,0 +1,15 @@
+{
+    "name": "14628/wechat-login",
+    "autoload": {
+        "psr-4": {
+            "14628\\WechatLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huha555",
+            "email": "1462831624@qq.com"
+        }
+    ],
+    "require": {}
+}
